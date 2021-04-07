@@ -5,5 +5,6 @@ int main()
 {
 	lets see
 	okay awesome
+	main
 	return 0;
 }
