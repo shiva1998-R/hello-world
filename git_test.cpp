@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	lets see
+	checcking commit messages
 	return 0;
 }
