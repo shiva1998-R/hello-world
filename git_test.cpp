@@ -6,10 +6,6 @@ int main()
 	lets see
 	okay awesome
 	done
-<<<<<<< HEAD
-	x thing
-=======
-	y thing
->>>>>>> y
+	1
 	return 0;
 }
