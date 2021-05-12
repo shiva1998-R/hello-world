@@ -1,3 +1,3 @@
 #include<iostream>
-abcome sprobs
+sprobs
 all right
