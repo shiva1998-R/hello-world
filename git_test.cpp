@@ -6,6 +6,6 @@ int main()
 	lets see
 	okay awesome
 	done
-	y thing
+	1
 	return 0;
 }
